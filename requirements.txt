@@ -1,0 +1,7 @@
+streamlit
+pandas
+xlrd
+pandas_ta
+yfinance
+plotly
+prophet
